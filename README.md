@@ -1,11 +1,11 @@
 <img src="https://e-talk.xyz/wp-content/uploads/2023/02/a54cc409-6123-43d5-9bb2-1a55a6ac93fb.png" alt="ikọbọ (ETK)" width="300"/>
 <br/><br/>
-ikọbọ (ETK) [ikọbọ, ETK]  
+ikọbọ (ETK) [IKB, ETK]  
 </h1>
 
 <div align="center">
 
-[![ikọbọBadge](https://img.shields.io/ikọbọbadge/-Coin-yellow.svg)](https://E-talk.xyz)
+[![ikọbọBadge](https://https://e-talk.xyz/wp-content/uploads/2023/02/Safeimagekit-resized-img.png/ikọbọbadge/-Coin-yellow.svg)](https://E-talk.xyz)
 [![LET'S CONNECT](https://img.shields.io/badge/LET'S-CONNECT-yellow.svg)](https://E-talk.xyz)
 
 </div>
