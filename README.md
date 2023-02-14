@@ -10,9 +10,8 @@ ikọbọ (ETK) [IKB, ETK]
 [![LET'S CONNECT](https://img.shields.io/badge/LET'S-CONNECT-yellow.svg)](https://E-talk.xyz)
 
 </div>
-I-k-B-ETK
-ERC20 Token
-The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
+I-k-B- (ETK)
+ERC20 Token The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
 
 name()
 symbol()
