@@ -45,12 +45,13 @@ February 14, 2022
 # 2 The platform 
 # 3 The ecosystem 
 # 3.1 The Core layer
-# 3.2 TheExtensions layer 
+# 3.2 The Extensions layer 
 # 4 Use cases
 # 5 B2B payments
 # 6 Online Payment 
 # 7 Accounting
-# 8 Business Logic andTrade Laws:GovernmentandTax 
+# 8 Business Logic and Trade Laws 
+# Government and Tax 
 # 9 Transparency of institutions
 # 10 IoT and smartcontracts
 # 11 Token
