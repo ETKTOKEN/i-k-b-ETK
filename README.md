@@ -5,7 +5,7 @@ ikọbọ (ETK) [IKB, ETK]
 
 <div align="center">
 
-[![ikọbọBadge](https://https://e-talk.xyz/wp-content/uploads/2023/02/Safeimagekit-resized-img.png/ikọbọbadge/-Coin-yellow.svg)](https://E-talk.xyz)
+[![ikọbọBadge](https://https://e-talk.xyz/wp-content/uploads/2023/02/Safeimagekit-resized-img.png/ikọbọbadge/-Coin-yellow)](https://E-talk.xyz)
 [![LET'S CONNECT](https://img.shields.io/badge/LET'S-CONNECT-yellow.svg)](https://E-talk.xyz)
 
 </div>
