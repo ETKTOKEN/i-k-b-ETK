@@ -1,6 +1,6 @@
 # i-k-b-ETK
-RC20 Token
-The public interface of ETK is the ERC20 interface specified by EIP-20.
+ERC20 Token
+The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
 
 name()
 symbol()
