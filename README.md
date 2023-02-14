@@ -195,7 +195,7 @@ and making crypto and fiat accessable to everyone without borders or retractions
 
 
 
-##Team
+## Team
 Core team
 Our team is our strongest asset for the ETK project. All of its members have worked together in the past, for terms ranging from 6 months to 6 years. We are doers. Our experiences in finance, blockchain and entrepreneurship are combined to rethink the international trade organization of tomorrow.
 
