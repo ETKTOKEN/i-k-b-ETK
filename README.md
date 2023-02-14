@@ -36,7 +36,7 @@ License - Much license ⚖️
 ikọbọ (ETK) is released under the terms of the MIT license
  Whitepaper
 
-ikọbọ ETK
+## ikọbọ ETK
 
 The future of commerce
 A decentralized network for online payment 
