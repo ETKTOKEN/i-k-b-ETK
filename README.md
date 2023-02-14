@@ -1,3 +1,5 @@
+<img src="https://e-talk.xyz/wp-content/uploads/2023/02/a54cc409-6123-43d5-9bb2-1a55a6ac93fb.png" alt="ikọbọ (ETK)" width="300"/>
+<br/><br/>
 # i-k-b-ETK
 ERC20 Token
 The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
