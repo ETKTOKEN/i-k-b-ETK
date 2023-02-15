@@ -49,7 +49,7 @@ February 14, 2022
 # 3 The ecosystem 
 # 3.1 The Core layer
 # 3.2 The Extensions layer 
-# 4 Use cases
+# 4 Use cases 
 # 5 B2B payments
 # 6 Online Payment 
 # 7 Accounting
@@ -104,7 +104,7 @@ This layer is free to encourage the greatest number to use it and to discourage 
 The second layer is the Extensions layer. Most payment created today are not as basic as the one proposed by the Core layer. If the payment comes from an enterprise, then it includes rules for calculating taxes, payment terms, escrows or advances. All of these conditions take the form of available extensions that can be added to payment . This layer is the gateway to incredible features that do not yet exist, such as ”continuous bills”. For example, someone could choose this module to break down their rent into 30x24 payments to the landlord, leaving this person with a fluid bank account without large end-of-month expenses. Taxes would be rerouted in real time to government agencies. With each payment, 20% of VAT would go to taxes and 80% to the recipient company. The same example would allow everyone to give 1% of all payments to NGOs (Non Governmental Organizations), or to deposit them into ones own retirement account.
 This layer is chargeable, in that each extension will take a fee that will be partially burned and partially transferred to the extension developers, with the extensions accrued on the same invoice. Costs decrease over time to remain competitive and discourage alternative systems. The costs of these extensions is estimated to be between 0.1% and 0.5% initially, though as the system grows, the costs will be reduced. More than 5,000 billion dollars in payments are made each day, and in the end it will be enough to finance the network by less than 0.1%. Nonetheless, the costs will continue to support the security of applications and their development. This layer is completely open, whereupon anyone can create their own extensions, with the fees also being distributed in a way that will interest and encourage the developer and the community
 
-## (4) Use cases
+## (4) Use cases 💻 
 The use cases of this technology are extremely wide. This system automates real-time global accounting, replaces an entire branch of the audit, eliminates manual tax collection, simplifies international payments, allows machines to communicate on the same financial field, replaces payment systems such as Paypal, and makes the most advanced payment terms available to everyone.
 
 
