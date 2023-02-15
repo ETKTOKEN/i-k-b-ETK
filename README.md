@@ -38,7 +38,8 @@ There is a well known gotcha involving the ERC20 approve method. The problem occ
 The recommended mitigation in cases where the owner does not trust the spender is to first set the allowance to zero before setting it to a new amount, checking that the allowance was not spent before sending the new approval transaction. Note, however, that any allowance change is subject to front-running, which is as simple as watching the mempool for certain transactions and then offering a higher gas price to get another transaction mined onto the blockchain more quickly.
 License - Much license ⚖️
 ikọbọ (ETK) is released under the terms of the MIT license
- Whitepaper
+
+ ## Whitepaper
 
 ## ikọbọ ETK
 
