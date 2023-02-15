@@ -19,17 +19,28 @@ I-k-B- (ETK)
 ERC20 Token The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
 
 name()
+
 symbol()
+
 decimals()
+
 totalSupply()
+
 balanceOf(address who)
+
 transfer(address to, uint256 value)
+
 approve(address spender, uint256 value)
+
 allowance(address owner, address spender)
+
 transferFrom(address from, address to, uint256 value)  And the usual events.
 
+
 event Transfer(address indexed from, address indexed to, uint256 value)
+
 event Approval(address indexed owner, address indexed spender, uint256 value)
+
 Typical interaction with the contract will use transfer to move the token as payment. Additionally, a pattern involving approve and transferFrom can be used to allow another address to move tokens from your address to a third party without the need for the middleperson to custody the tokens, such as in the 0x protocol.
 
 Warning about ERC20 approve front-running
