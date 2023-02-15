@@ -40,7 +40,7 @@ The recommended mitigation in cases where the owner does not trust the spender i
 
 # License - EVM license ⚖️
 
-# ikọbọ (ETK) is released under the terms of the MIT license
+ikọbọ (ETK) is released under the terms of the MIT license
 
  ## Whitepaper
 
