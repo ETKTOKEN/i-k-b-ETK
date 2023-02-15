@@ -45,7 +45,7 @@ ikọbọ (ETK) is released under the terms of the MIT license
 
  # IKọBọ ETK Whitepaper
 
-# The future of commerce
+## The future of commerce
 A decentralized network for online payment 
 February 14, 2022
 ## CONTENT 
