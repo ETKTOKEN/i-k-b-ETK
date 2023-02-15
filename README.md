@@ -36,7 +36,10 @@ Warning about ERC20 approve front-running
 There is a well known gotcha involving the ERC20 approve method. The problem occurs when the owner decides to change the allowance of a spender that already has an allowance. If the spender sends a transferFrom transaction at a similar time that the owner sends the new approve transaction and the transferFrom by the spender goes through first, then the spender gets to use the original allowance, and also get approved for the intended new allowance.
 
 The recommended mitigation in cases where the owner does not trust the spender is to first set the allowance to zero before setting it to a new amount, checking that the allowance was not spent before sending the new approval transaction. Note, however, that any allowance change is subject to front-running, which is as simple as watching the mempool for certain transactions and then offering a higher gas price to get another transaction mined onto the blockchain more quickly.
+
+
 # License - EVM license ⚖️
+
 # ikọbọ (ETK) is released under the terms of the MIT license
 
  ## Whitepaper
