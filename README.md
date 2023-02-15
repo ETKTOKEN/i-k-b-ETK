@@ -193,7 +193,8 @@ and making crypto and fiat accessable to everyone without borders or retractions
 -Deploy Inter-currency settlement through ETK to facilitate international payments
 -Deploy the governance system (Vote/Token Chat)
 -launch our mobile app on iOS and android 
--Deploy the Tax extension to automatically pay taxes in real time
+## META STORE Q1 2024
+-launch our metaverse collections shopping mall
 
 
 
