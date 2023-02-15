@@ -43,7 +43,7 @@ The recommended mitigation in cases where the owner does not trust the spender i
 ikọbọ (ETK) is released under the terms of the MIT license
 
 
- ## IKọBọ ETK Whitepaper
+ # IKọBọ ETK Whitepaper
 
 # The future of commerce
 A decentralized network for online payment 
