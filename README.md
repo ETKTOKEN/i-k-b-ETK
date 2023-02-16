@@ -16,15 +16,15 @@ Select language: EN |
 **Website:** [E-TALK.XYZ](https://e-talk.xyz)
 
 I-k-B- (ETK)
-ERC20 Token The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP-20.
+ERC20 Token The public interface of ikọbọ (ETK) is the ERC20 interface specified by EIP IERC20.
 
-name()
+name   (ikọbọ)
 
-symbol()
+symbol  (ETK)
 
-decimals()
+decimals (18)
 
-totalSupply()
+totalSupply (500000000000004152629395456 )
 
 balanceOf(address who)
 
