@@ -221,7 +221,7 @@ and making crypto and fiat accessable to everyone without borders or retractions
 
 
 ## Burn/Mint
-The initialCap of ETK was ( 100,000,000,000 ) ** 49.9% of ETK has been Burn to reduce the supply :** [49,499,999,999.999995847370604544](https://etherscan.io/tx/0x4553be618fa47d01b8c5261571d85ba1c9910881cdec3e398e95145fe8a4d5fe) of ETK and no ETK can ever be mint. The totalSupply is (50,499,999,999.999999869204824064) and the cap is ( 50,499,999,999.999999869204824064 )
+The initialCap of ETK was ( 100,000,000,000 ) ** 49.96% of ETK has been Burn to reduce the supply :** [49,499,999,999.999995847370604544](https://etherscan.io/tx/0x4553be618fa47d01b8c5261571d85ba1c9910881cdec3e398e95145fe8a4d5fe) of ETK and no ETK can ever be mint. The totalSupply is (50,499,999,999.999999869204824064) and the cap is ( 50,499,999,999.999999869204824064 )
 
 
 
