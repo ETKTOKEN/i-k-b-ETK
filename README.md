@@ -26,6 +26,12 @@ decimals (18)
 
 totalSupply (500000000000004152629395456 )
 
+burn amount ( 49,499,999,999.999995847370604544 )
+
+initialCap ( 100000000000000000000000000000 )
+
+cap ( 50,500,000,000.4152629395456 )
+
 balanceOf(address who)
 
 transfer(address to, uint256 value)
