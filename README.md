@@ -207,13 +207,24 @@ and making crypto and fiat accessable to everyone without borders or retractions
 -ETK on BNB Chain 
 -Deploy management of Crypto-currencies on ETK (ERC20 tokens)
 -Proof of concept :ikọbọ Core working with a Bitcoin Oracle
+-lauch E-talk credit 
 -Work on partnerships with Accounting, Payment and Audit firms
 -Deploy Inter-currency settlement through ETK to facilitate international payments
 -Deploy the governance system (Vote/Token Chat)
 -launch our mobile app on iOS and android 
 ## META STORE Q1 2024
 -launch our metaverse collections shopping mall
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
