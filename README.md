@@ -196,13 +196,13 @@ and making crypto and fiat accessable to everyone without borders or retractions
 
 -Launch the E-talk website
 
-## Request Colossus: Q4 2022
+## ikọbọ Colossus: Q4 2022
 -Token Launch
 -First version of ETK working with Ethereum on Test Net
 --First version of ETK working with BNB  on Test Net
 -Deploy the website to Create/Visualize and interact with ETK 
 
-## Request Great Wall: Q1 2023
+## ikọbọ Great Wall: Q1 2023
 -First version of ETK working with Ethereum on a main net 
 -ETK on BNB Chain 
 -Deploy management of Crypto-currencies on ETK (ERC20 tokens)
