@@ -130,7 +130,7 @@ This layer is chargeable, in that each extension will take a fee that will be pa
 
 ## (4) Use cases 💻 
 The use cases of ETK are extremely wide. Ikọbọ is a universal open-source peer-to-peer digital currency payment solution that enables users to make purchases in the E-talk ikọbọ marketplace. It allows users to securely store their payment information, making it easier and more convenient to make purchases. With Ikọbọ, users can quickly and securely pay for items in the E-talk ikọbọ marketplace with just a few clicks. Additionally, users can also use Ikọbọ to make payments to other users, transfer funds to their bank account, and even receive payments from other users. The platform is secure and user-friendly, making it a great choice for making purchases and 
-This system automates real-time global accounting, replaces an entire branch of the audit, eliminates manual tax collection, simplifies international payments, allows machines to communicate on the same financial field, replaces payment systems such as Paypal, and makes the most advanced payment terms available to everyone.
+E-talk system automates real-time global accounting, replaces an entire branch of the audit, eliminates manual tax collection, simplifies international payments, allows machines to communicate on the same financial field, replaces payment systems such as Paypal, and makes the most advanced payment terms available to everyone.
 
 
 ## (5) B2B invoicing
