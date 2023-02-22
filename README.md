@@ -206,7 +206,7 @@ and making crypto and fiat accessable to everyone without borders or retractions
 -First version of ETK working with Ethereum on a main net 
 -ETK on BNB Chain 
 -Deploy management of Crypto-currencies on ETK (ERC20 tokens)
--Proof of concept : Request Core working with a Bitcoin Oracle
+-Proof of concept :ikọbọ Core working with a Bitcoin Oracle
 -Work on partnerships with Accounting, Payment and Audit firms
 -Deploy Inter-currency settlement through ETK to facilitate international payments
 -Deploy the governance system (Vote/Token Chat)
