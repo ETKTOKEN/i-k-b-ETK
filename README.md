@@ -68,4 +68,4 @@ The initialCap of ETK was ( 100,000,000,000 ) ** 49.96% of ETK was Burned to red
 
 
 
-**WHITE PAPER:**(https://e-talk.xyz/wp-content/uploads/2023/02/white-paper-1-now-.pdf)
+**WHITE PAPER:**(https://e-talk.xyz/wp-content/uploads/2023/02/E-talk-White-paper...pdf)
